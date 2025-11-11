@@ -1,2 +1,5 @@
 Hi this is a testing git
+This is the second line from local
+This is the 3rd line
+This is the 4th line
 This is the second line from remote
